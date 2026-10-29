@@ -1,0 +1,11 @@
+Data,Hora,Supervisor,Condominio,Colaborador1,Funcao1,Colaborador2,Funcao2,Observacoes,Limpeza,LimpezaProduto,LimpezaCronograma,LimpezaCondominio,LimpezaPortaria,Uniforme,FolhaPonto,Cracha,Pendencias,UniformeCondicoes,BarbaFeita
+2026-10-16,12:17:00,André,Bela Vista,Cristina,Faxineiro/a,Luzia,Porteiro/a,,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não
+2026-10-16,12:17:00,André,Bela Vista,Mario,Faxineiro/a,Carmen,Porteiro/a,,Sim,Sim,Não,Não,Não,Não,Não,Sim,Sim,Não,Não
+2026-10-16,12:17:00,Claude,Blue Lagoon,Cristina,Manobrista,Mario,Porteiro/a,,Não,Sim,Não,Não,Não,Não,Sim,Sim,Não,Sim,Não
+2026-10-16,12:28:00,Daniel,Bela Vista,Mario,Concierge,Cristina,Porteiro/a,é isso aí,Não,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+2026-10-16,12:35:00,André,Maravilhoso,Cristina,Faxineiro/a,Luzia,Faxineiro/a,,Sim,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não
+2026-10-17,10:19:00,Claude,Trianon,Cristina,Faxineiro/a,Laura,Porteiro/a,Tudo ok,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim
+2026-10-17,10:27:00,Claude,Bela Vista,Carmen,Faxineiro/a,Laura,Porteiro/a,,Sim,Não,Sim,Não,Sim,Não,Sim,Não,Sim,Sim,Não
+2026-10-18,08:18:00,Daniel,Estrela do Mar,Isabela,Porteiro/a,Cristina,Faxineiro/a,,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+2026-10-18,08:18:00,Daniel,Blue Lagoon,Laura,Porteiro/a,Cristina,Concierge,,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+2026-10-29,16:42:00,Claude,Estrela do Mar,Luzia,Concierge,Laura,Porteiro/a,,Sim,Não,Sim,Não,Não,Sim,Não,Não,Não,Não,Sim
