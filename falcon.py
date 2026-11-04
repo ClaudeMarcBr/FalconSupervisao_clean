@@ -25,21 +25,13 @@ try:
 except locale.Error:
     locale.setlocale(locale.LC_COLLATE, "C")
 
+#Acerta o fuso horário para o horário de Brasília
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
 agora = datetime.now(ZoneInfo("America/Sao_Paulo"))
 
-
-st.write(
-    "Teste horário de São Paulo:",
-    datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%d/%m/%Y %H:%M")
-)
-
-
-
-
-#Passo 1: montar a tela do sistema
+#Passo 1: montar a tela do sistema com o logo da Falcon e o título do sistema
+st.image("logo_falcon.png", width=100)
 st.write("## Sistema de Visitas de supervisão da Falcon")
 st.markdown(
     '<h4 style="margin-left: 40px;">by Claude Païssé  © 2026',
